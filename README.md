@@ -27,7 +27,9 @@ queries are  supported by the tree class:
 
 Description Notes: 
   The query type character (F or C) will be in upper case.
-   The nodes for the word tree are a struct with the following members: 
+  
+  The nodes for the word tree are a struct with the following members: 
+  
       a) A string containing the word itself
       b) An int containing the count of the number of occurrences of the word 
       c) One pointer
