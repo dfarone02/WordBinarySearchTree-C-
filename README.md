@@ -33,3 +33,12 @@ Description Notes:
       a) A string containing the word itself
       b) An int containing the count of the number of occurrences of the word 
       c) One pointer
+      
+Specifications:
+
+1. The program is split into 3 files. There is a WordTree class (with separate interface 'wordtree.h' and implementation file 'wordtree.cpp), and a
+driver file 'wordtree_main.cpp'. The details are specified below:
+
+  a) The WordTree class– This class represents a word binary search tree
+     Files are named wordtree.h and wordtree.cpp
+     Class is named WordTree
